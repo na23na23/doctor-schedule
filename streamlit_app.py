@@ -173,7 +173,7 @@ class Month:
         return df
 
 ### App
-st.title('Doctor Schedule Generator')
+st.title('Doctors Schedule Generator')
 cols = st.columns(2)
 
 # User inputs for the schedule
